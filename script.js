@@ -39,9 +39,9 @@ var pola1 = [document.getElementsByClassName("pola1"), document.getElementsByCla
 var pola = document.getElementsByClassName("pola");
 var jambg = document.getElementsByClassName("jamgacor");
 
-var random = ["âŒâŒâŒ", "âœ…âŒâŒ", "âŒâœ…âŒ", "âŒâŒâœ…", "âœ…âŒâœ…", "âŒâœ…âœ…"];
+var random = ["❌❌❌", "✅❌❌", "❌✅❌", "❌❌✅", "✅❌✅", "❌✅✅"];
 
-//âœ…âŒ
+//✅❌
 
 var random2 = [10, 20, 50, 70, 100];
 
